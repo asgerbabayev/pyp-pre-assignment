@@ -30,6 +30,10 @@ Feature folderi altında olan branch-lərə push olduqda işə düşməlidir.
 
 - [Code Coverage Summary](https://github.com/marketplace/actions/code-coverage-summary)
 
+#### Logging
+
+- Sistemdə bütün əməliyyatlar və xətalar loglanmalıdır.
+- Hansı emaillərə hansi hesabatlar göndərilib loglanmalıdır.
 
 ---
 #### Texnologiyalar
