@@ -7,7 +7,7 @@
 ---
 ##### Texnologiyalar
  - Backend : .NET, Java və ya Python
- - Frontend: SwaggerUI
+ - UI: SwaggerUI
  - Database: SQL Server və ya PostgreSQL
  - Git: GitHub
 
