@@ -54,5 +54,5 @@ Feature folderi altında olan branch-lərə push olduqda işə düşməlidir.
 
 ---
 #### Təhvil və bitiş vaxtı
- - Lahiyə 21.08.2020-yə qədər yekunlaşmalıdır. 
+ - Lahiyə 22.08.2022-yə qədər yekunlaşmalıdır. 
  - Lahiyə source code olaraq GitHub-da şəxsi profilinizdə public repo-da olmalıdır.
