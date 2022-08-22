@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "119d1534-4e8e-4f96-bc67-721708017e03": {
+      "ProjectGuid": "119d1534-4e8e-4f96-bc67-721708017e03",
+      "DisplayName": "PypProject.DataAccess",
+      "ColorIndex": 0
+    },
+    "505cda0d-836f-4983-b818-a642b65e9748": {
+      "ProjectGuid": "505cda0d-836f-4983-b818-a642b65e9748",
+      "DisplayName": "PypProject.Business",
+      "ColorIndex": 1
+    },
+    "4e47e935-5280-425d-af21-720e021b910d": {
+      "ProjectGuid": "4e47e935-5280-425d-af21-720e021b910d",
+      "DisplayName": "PypProject.Core",
+      "ColorIndex": 2
+    },
+    "79baa7b0-cdec-4b01-b0a2-d10de779cc37": {
+      "ProjectGuid": "79baa7b0-cdec-4b01-b0a2-d10de779cc37",
+      "DisplayName": "PypProject.Api",
+      "ColorIndex": 3
+    },
+    "c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c": {
+      "ProjectGuid": "c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c",
+      "DisplayName": "PypProject.Entities",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c718e0b4-682d-4a16-bc81-7f6b20c00691": {
+      "ProjectGuid": "c718e0b4-682d-4a16-bc81-7f6b20c00691",
+      "DisplayName": "PypProjectTests",
+      "ColorIndex": 5
+    },
+    "4a400582-467a-44df-9749-cb77044e55dc": {
+      "ProjectGuid": "4a400582-467a-44df-9749-cb77044e55dc",
+      "DisplayName": "PypProject.Tests",
+      "ColorIndex": 6
+    },
+    "93118dca-0c0d-4cfb-b352-8bf7c9f6f005": {
+      "ProjectGuid": "93118dca-0c0d-4cfb-b352-8bf7c9f6f005",
+      "DisplayName": "PypProject.Test",
+      "ColorIndex": 7
+    },
+    "fa72c161-705f-4030-a818-7bf4f6dca918": {
+      "ProjectGuid": "fa72c161-705f-4030-a818-7bf4f6dca918",
+      "DisplayName": "PypProject.Tests",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

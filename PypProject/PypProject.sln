@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PypProject.Api", "PypProject.Api\PypProject.Api.csproj", "{79BAA7B0-CDEC-4B01-B0A2-D10DE779CC37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PypProject.Entities", "PypProject.Entities\PypProject.Entities.csproj", "{C1F82DBC-C9E6-4AD5-9345-ABD2CDA91C7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PypProject.DataAccess", "PypProject.DataAccess\PypProject.DataAccess.csproj", "{119D1534-4E8E-4F96-BC67-721708017E03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PypProject.Business", "PypProject.Business\PypProject.Business.csproj", "{505CDA0D-836F-4983-B818-A642B65E9748}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PypProject.Core", "PypProject.Core\PypProject.Core.csproj", "{4E47E935-5280-425D-AF21-720E021B910D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PypProject.Tests", "PypProject.Tests\PypProject.Tests.csproj", "{FA72C161-705F-4030-A818-7BF4F6DCA918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BAA7B0-CDEC-4B01-B0A2-D10DE779CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BAA7B0-CDEC-4B01-B0A2-D10DE779CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BAA7B0-CDEC-4B01-B0A2-D10DE779CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BAA7B0-CDEC-4B01-B0A2-D10DE779CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F82DBC-C9E6-4AD5-9345-ABD2CDA91C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F82DBC-C9E6-4AD5-9345-ABD2CDA91C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F82DBC-C9E6-4AD5-9345-ABD2CDA91C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F82DBC-C9E6-4AD5-9345-ABD2CDA91C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119D1534-4E8E-4F96-BC67-721708017E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119D1534-4E8E-4F96-BC67-721708017E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119D1534-4E8E-4F96-BC67-721708017E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119D1534-4E8E-4F96-BC67-721708017E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505CDA0D-836F-4983-B818-A642B65E9748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505CDA0D-836F-4983-B818-A642B65E9748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505CDA0D-836F-4983-B818-A642B65E9748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505CDA0D-836F-4983-B818-A642B65E9748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E47E935-5280-425D-AF21-720E021B910D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E47E935-5280-425D-AF21-720E021B910D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E47E935-5280-425D-AF21-720E021B910D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E47E935-5280-425D-AF21-720E021B910D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA72C161-705F-4030-A818-7BF4F6DCA918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA72C161-705F-4030-A818-7BF4F6DCA918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA72C161-705F-4030-A818-7BF4F6DCA918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA72C161-705F-4030-A818-7BF4F6DCA918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640F687C-C3A5-4CD0-A0AC-9A355891D279}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+2022-08-21 02:56:20.8378 INFO asgar.b@code.edu.az Göndərilmiş hesabatlar
+--- Enterprise, 10, 1819040.00, 160647.50, -81460.00  ---
+
+--- Small Business, 10, 5962867.5, 452482.5, 616742.5  ---
+
+--- Channel Partners, 10, 215914.14, 15163.86, 158144.64  ---
+
+--- Midmarket, 10, 224676.075, 13876.425, 65641.075  ---
+
+--- Government, 30, 5682795.355, 459141.145, 1203507.855  ---
+
+2022-08-21 02:56:23.7839 INFO Hesabat Göndərildi
+2022-08-21 04:28:47.4321 ERROR Fayl şablonla uyğun deyil
+2022-08-21 05:57:17.8110 INFO asgar.b@code.edu.az Göndərilmiş hesabatlar
+--- Enterprise, 25, 5519138.125, 376049.375, -140241.875  ---
+
+--- Small Business, 25, 13338705.0, 1017945.0, 1374830.0  ---
+
+--- Channel Partners, 25, 517500.12, 37325.88, 378793.62  ---
+
+--- Midmarket, 25, 599456.175, 46511.325, 168811.175  ---
+
+--- Government, 75, 12692339.650, 1182963.350, 2608874.650  ---
+
+2022-08-21 05:57:21.4326 INFO Hesabat Göndərildi
+2022-08-21 05:57:32.9320 ERROR  - Bu sütun şablonla uyğun deyil
+2022-08-21 06:01:51.2678 ERROR House Age (years) - Bu sütun şablonla uyğun deyil
+2022-08-21 06:07:24.2214 ERROR Segment - Bu sütun şablonla uyğun deyil
+2022-08-21 06:07:42.9414 ERROR Segment - Bu sütun şablonla uyğun deyil
+2022-08-21 06:22:16.8745 INFO Fayl uğurla yükləndi
+2022-08-21 06:26:09.9733 ERROR Fayl boşdur
+2022-08-21 06:26:28.4374 ERROR House Age (years) - Bu sütun şablonla uyğun deyil
+2022-08-21 17:15:40.6140 INFO asgar.b@code.edu.az Göndərilmiş hesabatlar
+2022-08-21 17:15:44.5071 INFO Hesabat Göndərildi
+2022-08-21 17:17:36.3543 ERROR Sistemdə məlumat yoxdur
+2022-08-21 17:17:36.4034 ERROR Sistemdə məlumat yoxdur
+2022-08-21 17:17:56.5729 INFO Fayl uğurla yükləndi
+2022-08-21 17:18:11.5939 INFO asgar.b@code.edu.az Göndərilmiş hesabatlar
+--- channel partners, 25, 517500.12, 37325.88, 378793.62  ---
+
+--- enterprise, 25, 5519138.125, 376049.375, -140241.875  ---
+
+--- government, 75, 12692339.650, 1182963.350, 2608874.650  ---
+
+--- midmarket, 25, 599456.175, 46511.325, 168811.175  ---
+
+--- small business, 25, 13338705.0, 1017945.0, 1374830.0  ---
+
+2022-08-21 17:18:14.6025 INFO Hesabat Göndərildi
+2022-08-21 19:35:32.3154 INFO Fayl uğurla yükləndi

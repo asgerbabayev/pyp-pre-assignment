@@ -1,0 +1,309 @@
+﻿++Solution 'PypProject' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:PypProject.sln
+++PypProjectTests
+++Dependencies
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:>1586
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:>896
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>897
+i:{505cda0d-836f-4983-b818-a642b65e9748}:>1476
+i:{4e47e935-5280-425d-af21-720e021b910d}:>895
+i:{4a400582-467a-44df-9749-cb77044e55dc}:>1758
+++data.json
+++DataControllerTest.cs
+++InMemoryWebApplicationFactory.cs
+++TestContext.cs
+++Analyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:analyzers
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:analyzers
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:analyzers
+i:{505cda0d-836f-4983-b818-a642b65e9748}:analyzers
+i:{4e47e935-5280-425d-af21-720e021b910d}:analyzers
+i:{4a400582-467a-44df-9749-cb77044e55dc}:analyzers
+++Frameworks
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:frameworks
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:frameworks
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:frameworks
+i:{505cda0d-836f-4983-b818-a642b65e9748}:frameworks
+i:{4e47e935-5280-425d-af21-720e021b910d}:frameworks
+i:{4a400582-467a-44df-9749-cb77044e55dc}:frameworks
+++Packages
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:packages
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:packages
+i:{505cda0d-836f-4983-b818-a642b65e9748}:packages
+i:{4e47e935-5280-425d-af21-720e021b910d}:packages
+i:{4a400582-467a-44df-9749-cb77044e55dc}:packages
+++Projects
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:projects
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:projects
+i:{505cda0d-836f-4983-b818-a642b65e9748}:projects
+i:{4e47e935-5280-425d-af21-720e021b910d}:projects
+i:{4a400582-467a-44df-9749-cb77044e55dc}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++xunit.analyzers
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++xunit.analyzers.fixes
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\.nuget\packages\xunit.analyzers\1.0.0\analyzers\dotnet\cs\xunit.analyzers.fixes.dll
+++Microsoft.NETCore.App
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\microsoft.netcore.app
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\microsoft.netcore.app
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\microsoft.netcore.app
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\microsoft.netcore.app
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\microsoft.netcore.app
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\desktop\pypproject\pypproject.tests\microsoft.netcore.app
+++coverlet.collector (3.1.2)
+++Microsoft.AspNetCore.Mvc.Testing (5.0.17)
+++Microsoft.EntityFrameworkCore.InMemory (5.0.17)
+++Microsoft.NET.Test.Sdk (17.3.0)
+++Moq (4.18.2)
+++xunit (2.4.2)
+i:{4a400582-467a-44df-9749-cb77044e55dc}:>1816
+++xunit.runner.visualstudio (2.4.5)
+++PypProject.Api
+i:{00000000-0000-0000-0000-000000000000}:PypProject.Api
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\desktop\pypproject\pypproject.api\pypproject.api.csproj
+++PypProject.DataAccess
+i:{00000000-0000-0000-0000-000000000000}:PypProject.DataAccess
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\pypproject.dataaccess.csproj
+++Connected Services 
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:>1587
+++Properties
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\properties\
+++wwwroot
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\wwwroot\
+++Controllers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\controllers\
+++Extensions
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\extensions\
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\extensions\
+++internal_logs
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\internal_logs\
+++appsettings.json
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\appsettings.json
+++Program.cs
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\program.cs
+++Startup.cs
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\startup.cs
+++No service dependencies discovered
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:>1588
+++launchSettings.json
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\properties\launchsettings.json
+++logs
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\wwwroot\logs\
+++nlog.config
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\wwwroot\nlog.config
+++DataController.cs
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\controllers\datacontroller.cs
+++ServiceExtension.cs
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\extensions\serviceextension.cs
+++internallog.txt
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\internal_logs\internallog.txt
+++appsettings.Development.json
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\microsoft.aspnetcore.app
+++Autofac.Extensions.DependencyInjection (8.0.0)
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:>1628
+i:{505cda0d-836f-4983-b818-a642b65e9748}:>1596
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:>1630
+++Swashbuckle.AspNetCore (5.6.3)
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:>1629
+++PypProject.Business
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.business\pypproject.business.csproj
+i:{00000000-0000-0000-0000-000000000000}:PypProject.Business
+++PypProject.Core
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.core\pypproject.core.csproj
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.core\pypproject.core.csproj
+i:{00000000-0000-0000-0000-000000000000}:PypProject.Core
+++2022-08-19_logfile.txt
+i:{79baa7b0-cdec-4b01-b0a2-d10de779cc37}:c:\users\asger\desktop\pypproject\pypproject.api\wwwroot\logs\2022-08-19_logfile.txt
+++PypProject.Entities
+i:{00000000-0000-0000-0000-000000000000}:PypProject.Entities
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.entities\pypproject.entities.csproj
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.entities\pypproject.entities.csproj
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.entities\pypproject.entities.csproj
+++Abstract
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\abstract\
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\abstract\
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\abstract\
+++Concrete
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\concrete\
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\concrete\
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\concrete\
+++DTOs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\dtos\
+++Enums
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\enums\
+++IDto.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\abstract\idto.cs
+++IEntity.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\abstract\ientity.cs
+++Data.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\concrete\data.cs
+++DiscountsProduct.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\concrete\discountsproduct.cs
+++Report.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\concrete\report.cs
+++GetReportDto.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\dtos\getreportdto.cs
+++Type.cs
+i:{c1f82dbc-c9e6-4ad5-9345-abd2cda91c7c}:c:\users\asger\desktop\pypproject\pypproject.entities\enums\type.cs
+++Migrations
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\migrations\
+++IDataDal.cs
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\abstract\idatadal.cs
+++DataContext
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\concrete\datacontext\
+++EntityFramework
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\concrete\entityframework\
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\dataaccess\entityframework\
+++20220816223459_Initial.cs
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\migrations\20220816223459_initial.cs
+++ContextModelSnapshot.cs
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\migrations\contextmodelsnapshot.cs
+++ClosedXML (0.96.0)
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>1660
+++EPPlus (6.0.6)
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>1658
+i:{505cda0d-836f-4983-b818-a642b65e9748}:>1598
+++Microsoft.AspNetCore.Http.Features (5.0.17)
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>1655
+i:{505cda0d-836f-4983-b818-a642b65e9748}:>1595
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1640
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>1656
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1641
+++Newtonsoft.Json (13.0.1)
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>1657
+++Npgsql.EntityFrameworkCore.PostgreSQL (5.0.10)
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:>1659
+++Context.cs
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\concrete\datacontext\context.cs
+++EfDataDal.cs
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\concrete\entityframework\efdatadal.cs
+++20220816223459_Initial.Designer.cs
+i:{119d1534-4e8e-4f96-bc67-721708017e03}:c:\users\asger\desktop\pypproject\pypproject.dataaccess\migrations\20220816223459_initial.designer.cs
+++Constants
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\constants\
+++DependencyResolvers
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\dependencyresolvers\
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\dependencyresolvers\
+++IDataService.cs
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\abstract\idataservice.cs
+++ILoggerService.cs
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\abstract\iloggerservice.cs
+++DataManager.cs
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\concrete\datamanager.cs
+++LoggerManager.cs
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\concrete\loggermanager.cs
+++Messages.cs
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\constants\messages.cs
+++AutoFacBusinessModule.cs
+i:{505cda0d-836f-4983-b818-a642b65e9748}:c:\users\asger\desktop\pypproject\pypproject.business\dependencyresolvers\autofacbusinessmodule.cs
+++NLog.Extensions.Logging (5.0.2)
+i:{505cda0d-836f-4983-b818-a642b65e9748}:>1597
+++DataAccess
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\dataaccess\
+++Utilities
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\
+++IEntityRepository.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\dataaccess\ientityrepository.cs
+++CoreModule.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\dependencyresolvers\coremodule.cs
+++FileExtension.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\extensions\fileextension.cs
+++ServiceCollectionExtension.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\extensions\servicecollectionextension.cs
+++IoC
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\ioc\
+++Mail
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mail\
+++Mappings
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mappings\
+++Results
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1642
+++MailKit (3.3.0)
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1645
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1643
+++Microsoft.Extensions.Hosting.Abstractions (6.0.0)
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1646
+++MimeKit (3.3.0)
+i:{4e47e935-5280-425d-af21-720e021b910d}:>1644
+++EfEntityRepositoryBase.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\dataaccess\entityframework\efentityrepositorybase.cs
+++ICoreModule.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\ioc\icoremodule.cs
+++ServiceTool.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\ioc\servicetool.cs
+++IMailHelper.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mail\imailhelper.cs
+++MailConfiguration.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mail\mailconfiguration.cs
+++MailHelper.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mail\mailhelper.cs
+++MailRequest.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mail\mailrequest.cs
+++MappingProfile.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\mappings\mappingprofile.cs
+++DataResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\dataresult.cs
+++ErrorDataResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\errordataresult.cs
+++ErrorResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\errorresult.cs
+++IDataResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\idataresult.cs
+++IResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\iresult.cs
+++Result.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\result.cs
+++SuccessDataResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\successdataresult.cs
+++SuccessResult.cs
+i:{4e47e935-5280-425d-af21-720e021b910d}:c:\users\asger\desktop\pypproject\pypproject.core\utilities\results\successresult.cs
+++Solution 'PypProject' ‎(5 of 5 projects)
+++PypProject.Tests
+i:{00000000-0000-0000-0000-000000000000}:PypProject.Tests
+++UnitTest1.cs
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\desktop\pypproject\pypproject.tests\unittest1.cs
+++C:\Program Files\dotnet\sdk\6.0.108\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.108\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++coverlet.collector (3.0.2)
+i:{4a400582-467a-44df-9749-cb77044e55dc}:>1794
+++Microsoft.NET.Test.Sdk (16.9.4)
+i:{4a400582-467a-44df-9749-cb77044e55dc}:>1791
+++xunit (2.4.1)
+++xunit.runner.visualstudio (2.4.3)
+i:{4a400582-467a-44df-9749-cb77044e55dc}:>1793
+++TestClientProvider.cs
+i:{4a400582-467a-44df-9749-cb77044e55dc}:c:\users\asger\desktop\pypproject\pypproject.tests\testclientprovider.cs
+++Microsoft.AspNetCore.TestHost (5.0.17)
+i:{4a400582-467a-44df-9749-cb77044e55dc}:>1820
